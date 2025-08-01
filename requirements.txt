@@ -2,4 +2,4 @@ PyMuPDF
 EbookLib
 customtkinter
 Pillow
-tkdnd
+tkinterdnd2

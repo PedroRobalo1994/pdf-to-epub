@@ -8,7 +8,7 @@ import io
 import os
 import argparse
 import customtkinter as ctk
-from tkdnd import DND_FILES, TkinterDnD
+from tkinterdnd2 import DND_FILES, TkinterDnD
 
 class PDFToEPUBConverter:
     def __init__(self, gui=True):
